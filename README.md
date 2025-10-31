@@ -679,5 +679,3 @@
    oc edit schedulers.config.openshift.io cluster
    ```
 =======
-# ocp4-metal-install
->>>>>>> 5669042f2573daf0504b914e5db38217040c5b00
