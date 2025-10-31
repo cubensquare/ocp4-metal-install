@@ -88,6 +88,13 @@
 
 1. Boot the ocp-svc VM
 
+Download all required files : [ V 4.19.0 ]
+wget https://mirror.openshift.com/pub/openshift-v4/x86_64/clients/ocp/4.19.0/openshift-install-linux-4.19.0.tar.gz
+wget https://mirror.openshift.com/pub/openshift-v4/x86_64/clients/ocp/4.19.0/openshift-client-linux-4.19.0.tar.gz
+wget https://mirror.openshift.com/pub/openshift-v4/x86_64/dependencies/rhcos/4.19/4.19.0/rhcos-4.19.0-x86_64-live-iso.x86_64.iso
+wget https://mirror.openshift.com/pub/openshift-v4/x86_64/dependencies/rhcos/4.19/4.19.0/rhcos-4.19.0-x86_64-metal.x86_64.raw.gz
+
+
 1. Move the files downloaded from the RedHat Cluster Manager site to the ocp-svc node
 
    ```bash
