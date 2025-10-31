@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OpenShift 4 Bare Metal Install - User Provisioned Infrastructure (UPI)
 
 - [OpenShift 4 Bare Metal Install - User Provisioned Infrastructure (UPI)](#openshift-4-bare-metal-install---user-provisioned-infrastructure-upi)
@@ -677,3 +678,6 @@
    ```bash
    oc edit schedulers.config.openshift.io cluster
    ```
+=======
+# ocp4-metal-install
+>>>>>>> 5669042f2573daf0504b914e5db38217040c5b00
